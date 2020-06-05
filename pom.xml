@@ -55,22 +55,12 @@
             </dependency>
 
             <!-- mybatis分页插件pagehelper -->
-            <dependency>
-                <groupId>com.github.pagehelper</groupId>
-                <artifactId>pagehelper-spring-boot-starter</artifactId>
-                <version>1.2.10</version>
-            </dependency>
+
 
             <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>fastjson</artifactId>
-                <version>1.2.60</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.course</groupId>
-                <artifactId>server</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <groupId>org.course</groupId>
+                <artifactId>common</artifactId>
+                <version>1.0-SNAPSHOT</version>
             </dependency>
 
         </dependencies>
